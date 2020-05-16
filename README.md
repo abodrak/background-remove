@@ -46,7 +46,7 @@ docker run -ti -p 3000:80 basnet
 
 ```
 
-## send image to BSAnet to retrive masked image 
+## send image to BSAnet to retrive masked image and combing it using Pillow and return to client 
 
 open app.py from project directory and rename the host name in app.py to your docker host ,
 run the app 
