@@ -57,7 +57,7 @@ python app.py
 
 ## comining both image masked + original into single image test 
 
-![test](mask_remove_tesk/test.ipynb)
+[jupyter-notebook](mask_remove_tesk/test.ipynb).
 
 
 
