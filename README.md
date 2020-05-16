@@ -61,7 +61,7 @@ python app.py
 
 
 
-## testing the result 
+## testing the result (open terminal and place test image in same folder)
 ```
 curl -F "data=@test.jpg" http://95.217.218.75:5000/cut -o result.png
 ```
