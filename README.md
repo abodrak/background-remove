@@ -55,10 +55,15 @@ python app.py
 
 ```
 
+## comining both image masked + original into single image test 
+
+![test](mask_remove_tesk/test.ipynb)
+
+
+
 ## testing the result 
 ```
-http://your_host:5000/cut -o result.png
-
+curl -F "data=@test.jpg" http://95.217.218.75:5000/cut -o result.png
 ```
 
 
